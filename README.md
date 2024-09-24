@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет, Тимур Миннебаев! 👋
 
-<!--
-**m-a-bot/m-a-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать в мой профиль на GitHub!
 
-Here are some ideas to get you started:
+## О себе
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Увлекаюсь машинным обучением, обработкой данных и автоматизацией задач с использованием Python и других инструментов.
+
+## Как со мной связаться?
+
+- 📫 Email: [vip.fpfkbz@mail.ru](mailto:vip.fpfkbz@mail.ru)
+- 💼 Хабр Карьера: [career.habr.com/tm7n](https://career.habr.com/tm7n)
+- 💬 Telegram: [@tmpqr](https://t.me/tmpqr)
+
+Буду рад любому взаимодействию — будь то обсуждение новых проектов или просто обмен идеями! Давайте создавать что-то крутое вместе 🚀
